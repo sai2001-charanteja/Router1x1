@@ -10,17 +10,17 @@ From this project i learned :
 
 Virification Environment Flow:
 
-    <img width="1874" height="1680" alt="image" src="https://github.com/user-attachments/assets/93e8fc45-700b-4989-bdef-a197538f54b5" />
+<img width="1316" height="706" alt="image" src="https://github.com/user-attachments/assets/da7e62cd-113f-4040-9436-ce98fe1cc0d1" />
 
 
 Wave Diagram :
 
-    <img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/30a5c571-de3a-4929-bafd-8b55af860872" />
+<img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/30a5c571-de3a-4929-bafd-8b55af860872" />
 
 
 Functional Coverage :
 
-    <img width="1915" height="967" alt="image" src="https://github.com/user-attachments/assets/2fa80aec-9438-40e0-8172-5b9968c76e45" />
+<img width="1915" height="967" alt="image" src="https://github.com/user-attachments/assets/2fa80aec-9438-40e0-8172-5b9968c76e45" />
     For this i have slightly modified the coverage group
     
 My Output:
