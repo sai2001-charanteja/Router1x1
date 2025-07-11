@@ -1,4 +1,4 @@
-Output :
+    Output:
     # [New Testcase] run started at time :0
     # [Test case] Build started at time : 0
     # [Environment] Build started at time : 0
