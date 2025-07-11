@@ -1,4 +1,30 @@
-    Output:
+From this project i learned :
+
+    1. Flow of Verification environmnent
+    2. How to setup Verification environent componenents.
+    3. Usage of Mailboxes
+    4. Constraints
+    5. Functional Coverage
+    6. Inheritance for adding extra code with out disturbing the environment
+    7. Usage of mod_ports
+
+Virification Environment Flow:
+
+    <img width="1874" height="1680" alt="image" src="https://github.com/user-attachments/assets/93e8fc45-700b-4989-bdef-a197538f54b5" />
+
+
+Wave Diagram :
+
+    <img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/30a5c571-de3a-4929-bafd-8b55af860872" />
+
+
+Functional Coverage :
+
+    <img width="1915" height="967" alt="image" src="https://github.com/user-attachments/assets/2fa80aec-9438-40e0-8172-5b9968c76e45" />
+    For this i have slightly modified the coverage group
+    
+My Output:
+
     # [New Testcase] run started at time :0
     # [Test case] Build started at time : 0
     # [Environment] Build started at time : 0
@@ -54,6 +80,6 @@
     # ******************************************
     # 
     # ******************************************
-    # *****[Coverage] COverage Score : 7.107747********
+    # ***[Coverage] COverage Score : 7.107747***
     # ******************************************
     # [Environmnet] run Completed at time : 5735
